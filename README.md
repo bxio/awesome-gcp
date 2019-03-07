@@ -1,5 +1,6 @@
-Awesome GCP
+Awesome GCP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ===========
+
 
 A curated list of awesome GCP tutorials, books, blog posts, slides and other resources.
 
@@ -7,14 +8,9 @@ A curated list of awesome GCP tutorials, books, blog posts, slides and other res
 * [SDK](#sdk)
 * [Tutorials](#tutorials)
 
-# Conferences
-
-* [Google Cloud Next 2017](gcp_next17.md)
-
 # Products
 
-- [Awesome GCP](#awesome-gcp)
-- [Conferences](#conferences)
+- [Awesome GCP ![Awesome](https://awesome.re)](#awesome-gcp-awesomehttpsawesomere)
 - [Products](#products)
   - [Compute](#compute)
   - [Firebase](#firebase)
@@ -33,6 +29,9 @@ A curated list of awesome GCP tutorials, books, blog posts, slides and other res
   - [Java SDK](#java-sdk)
   - [Python SDK](#python-sdk)
 - [Tutorials](#tutorials)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Compute
 
@@ -92,9 +91,34 @@ Repos:
 # SDK
 
 ## Command Line
+* [gcloud command line tool](https://cloud.google.com/sdk/gcloud/)
+* [Google Cloud Shell](https://console.cloud.google.com/cloudshell/)
+
 
 ## Java SDK
 
 ## Python SDK
 
 # Tutorials
+
+## Cheat Sheets
+* [pydevops cheat sheet](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
+* [dannyzhang's cheat sheet](https://github.com/dennyzhang/cheatsheet-gcp-A4)
+
+
+## Contribute
+
+Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+
+**[⬆ back to top](#applications)**
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
